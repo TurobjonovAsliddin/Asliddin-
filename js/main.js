@@ -1,4 +1,4 @@
-const place=prompt("Asliddin Yaxshi bola!!!" ,"");
+const place=prompt("Asliddin Yaxshi bola!!!" , "");
 console.log(place);
 let a  =2;
 let b  =3;
